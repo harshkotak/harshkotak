@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola! I'm Harsh Kotak 👋
+---
+- 🌱 I’m currently doing my Masters in Computer Science from Georgia Tech. Specializing in ML.
+- ⚡ Have an amazing startup idea? Let's talk 💬 💬 💬
 
 <!--
 **harshkotak/harshkotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
